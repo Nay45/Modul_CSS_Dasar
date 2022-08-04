@@ -1,1 +1,8 @@
-# Modul_CSS_Dasar
+![image](https://user-images.githubusercontent.com/101272430/182738971-d315cb25-8012-430e-92c5-d9dc879d61af.png)
+![image](https://user-images.githubusercontent.com/101272430/182738993-b476ddd8-479c-40f6-9238-871cbc036491.png)
+![image](https://user-images.githubusercontent.com/101272430/182739028-f185032f-297f-456c-a1be-409341d22963.png)
+![image](https://user-images.githubusercontent.com/101272430/182739062-aee7ec81-b526-4207-a8fe-1c36dbcaf2a6.png)
+![image](https://user-images.githubusercontent.com/101272430/182739096-84a66db7-4e94-4df5-96a6-9f990683b1f0.png)
+![image](https://user-images.githubusercontent.com/101272430/182739133-94d25727-e53b-464e-88d8-03045f151cb6.png)
+![image](https://user-images.githubusercontent.com/101272430/182739160-8551bfc5-e57d-4845-b0b4-153696d9ed20.png)
+![image](https://user-images.githubusercontent.com/101272430/182739200-dd069a4d-c74d-483e-b818-aa8998656a98.png)
